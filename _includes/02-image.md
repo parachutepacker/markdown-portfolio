@@ -1,1 +1,1 @@
-[paratrooper](paratrooper.jpg "paratrooper")
+[paratrooper](british-paratrooper.jpg "paratrooper")
